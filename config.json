@@ -1,0 +1,9 @@
+{
+	"ip":"gabutCddN.aternos.me",
+	"port": "62834",
+	"name": "Afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
